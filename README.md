@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Deepak <br><br>💻 Aspiring MERN Stack Developer  <br>🚀 Building Backend Projects with Node.js and MongoDB  <br>📚 Currently learning React and improving my full stack skills  <br><br>Projects:<br>• User Profile API (CRUD)<br>• Job Portal Backend<br>• OTP Login + Item Manager
+Hi, I'm Deepak <br><br>💻 Aspiring MERN Stack Developer  <br>🚀 Building Backend Projects with Node.js and MongoDB  <br>📚 Currently learning React and improving my full stack skills  <br><br>Projects:<br><br>• Job Portal Backend<br>• OTP Login + Item Manager
 
 
 ## 🌐 Socials:
